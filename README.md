@@ -5,8 +5,7 @@ frequency Sub-THZ_شبیه سازی و تحلیل رفتار کانال Near-Fie
 
 
 
-لینک ژوپیتر نوت بوک پروژه https://jupyter.org/try-jupyter/lab/
-
+لینک ژوپیتر نوت بوک پروژه https://github.com/MohammadHessamSaedi/-/blob/main/Intro%20(1).ipynb
 
 
 
