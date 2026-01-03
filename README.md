@@ -1,7 +1,7 @@
 # Near-field-channel-in-
 frequency Sub-THZ_شبیه سازی و تحلیل رفتار کانال Near-Field در فرکانس های Sub-THZ و مقایسه آن با مدل کلاسیک Far-Field
 
-لینک گوگل درایو توضیحات پروژه https://drive.google.com/drive/home
+لینک گوگل درایو توضیحات پروژه [https://drive.google.com/drive/home](https://drive.google.com/file/d/1-dno_TDoIP50SLUi2uVPMNBz6AFspYgo/view?usp=sharing)
 
 
 
